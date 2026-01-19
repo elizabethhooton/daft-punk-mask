@@ -1,7 +1,9 @@
 # Daft Punk Thomas Helmet
 
 ## About
-Constructed for Halloween 2025. Super exciting project combining my love for programming and Daft Punk 🎶!
+The helmet was constructed for Halloween 2025. It is based on Thomas Bangalter's helmet from Daft Punk.
+
+It was a super exciting project combining my love for programming, engineering, and Daft Punk 😊 🎶!
 
 ## Features
 
